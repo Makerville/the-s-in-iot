@@ -17,3 +17,24 @@ Recently, a lot is being discussed about in the context of fixing this - checkli
 #### Software
 - The [software that comes with the PocketC.H.I.P.](https://docs.getchip.com/pocketchip.html#license) is pretty standard too - U-Boot, mainline Linux 4.3, Debian 8. There are some parts which might not be ```such FOSS, much AWESOME```, but those could be removed easily. 
 - More tbd
+
+
+#### CLI
+
+##### ```siniot --discover <interface>```
+
+##### ```siniot --info <device_name>```
+
+```
+$ siniot --info Yeelight
+Company - Xiaomi
+
+Models  - 
+	YLXD01YL Yeelight LED Ceiling Light
+	MJTD01YL Mi LED Desk Lamp
+	...
+	
+Developer -
+	API     - Open 
+	API URL - https://www.yeelight.com/en_US/developer
+```
