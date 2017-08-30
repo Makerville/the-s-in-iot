@@ -14,6 +14,9 @@ Recently, a lot is being discussed about in the context of fixing this - checkli
 
 ![PocketC.H.I.P.](./assets/pocket-chip.png)
 
+##### Also see
+- El Kentaro has done a pretty sweet job with [HackerChip](https://medium.com/@elkentaro/hackerchip-v-1-part-1-of-n-59804d27c245)
+
 #### Software
 - The [software that comes with the PocketC.H.I.P.](https://docs.getchip.com/pocketchip.html#license) is pretty standard too - U-Boot, mainline Linux 4.3, Debian 8. There are some parts which might not be ```such FOSS, much AWESOME```, but those could be removed easily. 
 - More tbd
